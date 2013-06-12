@@ -1,0 +1,1 @@
+Simple project to see how to use reflection to copy properties from one generic type to another.
